@@ -1,0 +1,11 @@
+package hw2Q3Variable;
+
+public class Student01 { //class initialized
+	string Id = "Maga2020";
+
+	public static void main(String[] args) {
+		
+System.out.println("Id");
+	}
+
+}

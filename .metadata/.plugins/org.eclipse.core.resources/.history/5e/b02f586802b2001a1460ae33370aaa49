@@ -1,0 +1,25 @@
+package hwQ4VariableAndMethod;
+
+public class Employee01 {
+	
+	public String EmpName = "Kopa Samsu";
+	public int empId = 420;
+	
+	public void empInfo () { //Constructor declared. A non-static method is created. Note () only, no { unlike the main method
+	
+			System.out.println("Employee Name: "+ EmpName);
+			System.out.println("Employee ID: "+ empId);
+	
+	}
+		
+				
+	public static void main(String[] args) { //new class is instantiated 
+			
+			Employee01 myInfo = new Employee01(); //Note new class name must match package class name above.
+			myInfo.empInfo();
+			
+		}
+} //closing class body
+
+
+	

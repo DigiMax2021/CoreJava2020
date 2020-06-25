@@ -1,0 +1,14 @@
+package hw2Q5VariableAndMethod;
+
+public class Student02 {
+
+	public static void main(String[] args) {
+		
+		static String Id = "Maga2020";
+		static boolean isGood = true;
+		System.out.println("My Student Id: "+ Id);
+		System.out.println("Am I the biggest asshole in class?: "+ isGood);
+
+	}
+
+}

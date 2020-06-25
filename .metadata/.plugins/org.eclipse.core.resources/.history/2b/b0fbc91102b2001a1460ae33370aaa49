@@ -1,0 +1,10 @@
+package hwQ4VariableAndMethod;
+
+public class Employee01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

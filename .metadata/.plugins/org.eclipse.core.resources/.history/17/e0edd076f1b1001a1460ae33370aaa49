@@ -1,0 +1,15 @@
+package hw2Q2Variable;
+
+public class MyInfo {
+	
+	public static String Name = "Donald Trump";
+
+	public static void main(String[] args) {
+
+		//Declaring variables
+		//A variable is holder for value in the form of different data types that are used in Java program. Each variable must be declared with a data type.
+		
+		
+	}
+
+}

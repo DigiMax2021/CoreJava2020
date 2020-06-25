@@ -1,0 +1,21 @@
+package hw2Q6VariableAndMethod;
+
+public class Employee02 {
+	
+	public static String EmpName = "Kopa Samsu";
+	public static int empId = 420;
+	
+	public static void empInfo () { //Constructor declared. 
+			System.out.println("Employee Name: "+ EmpName);
+			System.out.println("Employee ID: "+ empId);
+	
+	}
+		
+	public static void main(String[] args) {
+		empInfo();
+		
+		//Employee01 myInfo = new Employee01(); //Note new class name must match package class name above.
+		//myInfo.empInfo();
+	}
+
+}

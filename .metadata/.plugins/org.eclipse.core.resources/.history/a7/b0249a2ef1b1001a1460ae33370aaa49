@@ -1,0 +1,15 @@
+package hw2Q2Variable;
+
+import org.omg.CORBA.PUBLIC_MEMBER;
+
+public class MyInfo {
+
+	public static void main(String[] args) {
+
+		//Declaring variables
+		//A variable is holder for value in the form of different data types that are used in Java program. Each variable must be declared with a data type.
+		
+		PUBLIC static String Name = "Donald Trump"
+	}
+
+}
