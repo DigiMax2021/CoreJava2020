@@ -1,0 +1,36 @@
+package hw4Q3Inheritance02;
+
+public class TestAnimal {
+
+	public static void main(String[] args) {
+		
+		Animal animal = new Animal();
+		animal.animalInfo();
+		
+		Mammal mammal = new Mammal();
+		mammal.mammalInfo();
+		
+		Reptile reptile = new Reptile();
+		reptile.reptileInfo();
+		
+		Snake snake = new Snake();
+		snake.snakeInfo();
+		
+		Cobra cobra = new Cobra();
+		cobra.cobraInfo();
+		
+		Birds birds = new Birds();
+		birds.birdsInfo();
+		
+		Robin robin = new Robin();
+		robin.robinInfo();
+		
+		Dog dog = new Dog();
+		dog.dogInfo();
+		
+		BullDog bullDog = new BullDog();
+		bullDog.animalInfo();
+
+	}
+
+}

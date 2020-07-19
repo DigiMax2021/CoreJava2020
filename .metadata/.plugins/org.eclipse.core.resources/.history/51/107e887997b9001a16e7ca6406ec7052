@@ -1,0 +1,15 @@
+package hw3Q4variableAndMethod02;
+
+public class TestEmployee {
+
+	public static void main(String[] args) {
+		
+		Employee employee = new Employee();
+		employee.Name= "Tofael";
+		employee.age = 44;
+		employee.sex = 'M';
+		employee.usaCitizen = False;
+		employee.empInfo();
+	}
+
+}

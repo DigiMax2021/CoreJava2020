@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;hw3Q2Abstraction01&apos; to &apos;CoreJavaJune2020/src/hw4Q2Abstraction02&apos;&#x0A;- Original project: &apos;CoreJavaJune2020&apos;&#x0A;- Destination element: &apos;CoreJavaJune2020/src/hw4Q2Abstraction02&apos;&#x0A;- Original element: &apos;CoreJavaJune2020/src/hw3Q2Abstraction01&apos;" description="Copy package" destination="/src&lt;hw4Q2Abstraction02" element1="/src&lt;hw3Q2Abstraction01" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1593389642978" version="1.0"/>
+</session>

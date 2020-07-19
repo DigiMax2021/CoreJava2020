@@ -1,0 +1,15 @@
+package hw4Q5Constructor01;
+
+public class TestComputer {
+
+	public static void main(String[] args) {
+		
+		Computer computer01 = new Computer();
+		Computer computer02 = new Computer("Apple", "MacBook Air", "MacOS Mojave", 800, 'C', true);
+		Computer computer03 = new Computer(false, 900);
+		Computer computer04 = new Computer("Apple MackBook Air");
+		Computer computer05 = new Computer(" MacOS Mojave", 'D', "MacBook Air");
+		Computer computer06 = new Computer("XPS", "DELL", 'A', true, 2000);
+	}
+
+}

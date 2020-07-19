@@ -1,0 +1,13 @@
+package hw4Q2Abstraction02;
+
+public interface Hospital { //default constructor cannot be implemented inside interface
+	
+	/* Constructor cannot be used inside interface
+	 	public Maga() {
+		System.out.println("Maga Constructor");
+	}*/
+	
+	public void emergencyRoom();
+	public void surgeryRoom();
+	public void cafeteria();
+}
